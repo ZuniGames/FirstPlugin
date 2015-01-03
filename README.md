@@ -1,4 +1,4 @@
 FirstPlugin
 ===========
 
-I Love :pizza
+Test Primer Plugin
